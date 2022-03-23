@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\Cs50"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Fcc"
+	}
+}
